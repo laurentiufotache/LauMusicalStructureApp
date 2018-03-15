@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LauMusicalStructureApp</string>
+    <string name="dad_playlist">The Dad\'s Playlist</string>
+    <string name="mom_playlist">The Mom\'s Playlist</string>
+    <string name="boy_playlist">The Boy\'s Playlist</string>
+    <string name="girl_playlist">The Girl\'s Playlist</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_title">Song Title</string>
+    <string name="play_icon">Play Icon</string>
+    <string name="song_duration">Song Duration</string>
+    <string name="playing">Now playing: \n\n</string>
+</resources>

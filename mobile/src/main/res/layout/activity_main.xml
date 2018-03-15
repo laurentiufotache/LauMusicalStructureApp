@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+    tools:context="com.example.android.laumusicalstructureapp.MainActivity">
+
+    <TextView
+        android:id="@+id/dad"
+        style="@style/MenuStyle"
+        android:background="@color/dad_color"
+        android:text="@string/dad_playlist" />
+
+    <TextView
+        android:id="@+id/mom"
+        style="@style/MenuStyle"
+        android:background="@color/mom_color"
+        android:text="@string/mom_playlist" />
+
+    <TextView
+        android:id="@+id/girl"
+        style="@style/MenuStyle"
+        android:background="@color/girl_color"
+        android:text="@string/girl_playlist" />
+
+    <TextView
+        android:id="@+id/boy"
+        style="@style/MenuStyle"
+        android:background="@color/boy_color"
+        android:text="@string/boy_playlist" />
+
+</LinearLayout>

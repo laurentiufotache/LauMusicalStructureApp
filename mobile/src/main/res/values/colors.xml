@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App bar color of the app -->
+    <color name="primary_color">#006064</color>
+
+    <!-- Status bar color of the app -->
+    <color name="primary_dark_color">#2962FF</color>
+
+    <!-- Background color for app -->
+    <color name="background_color">#00ACC1</color>
+
+    <!-- Background color for the dad playlist_item list -->
+    <color name="dad_color">#880E4F</color>
+
+    <!-- Background color for the mom playlist_item list -->
+    <color name="mom_color">#D50000</color>
+
+    <!-- Background color for the girl playlist_item list -->
+    <color name="girl_color">#7C4DFF</color>
+
+    <!-- Background color for the boy playlist_item list -->
+    <color name="boy_color">#1A237E</color>
+</resources>

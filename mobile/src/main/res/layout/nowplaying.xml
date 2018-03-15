@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:contentDescription="@string/play_icon"
+        android:src="@drawable/play" />
+
+    <TextView
+        android:id="@+id/current_artist"
+        style="@style/NowPlayingArtistStyle"
+        android:text="@string/artist_name" />
+
+    <TextView
+        android:id="@+id/current_song_title"
+        style="@style/NowPlayingSongTitleStyle"
+        android:text="@string/song_title" />
+
+    <TextView
+        android:id="@+id/current_song_duration"
+        style="@style/NowPlayingSongDurationStyle"
+        android:text="@string/song_duration" />
+
+</LinearLayout>
